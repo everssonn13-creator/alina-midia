@@ -1,2 +1,3 @@
 # alina-midia
-Imagens e vídeos de divulgação da Alina (só mídia, sem código)
+
+Imagens e vídeos de divulgação da Alina (@alina.assistente). Só mídia, sem código.
